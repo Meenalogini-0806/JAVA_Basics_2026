@@ -1,4 +1,4 @@
- class in_decrement{
+ class in_decrement_task11{
 	public static void main(String args[])
 	{
 		int x = 10;
