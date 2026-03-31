@@ -32,6 +32,9 @@ class Simple_calculator{
 			case 4:
 				System.out.print("Result="+(num1/num2));
 				break;
+			default:
+				System.out.print("Invalid Number!");
+				break;
 			
 			
 		}
