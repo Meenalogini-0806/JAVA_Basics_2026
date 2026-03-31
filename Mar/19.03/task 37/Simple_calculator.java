@@ -33,7 +33,7 @@ class Simple_calculator{
 				System.out.print("Result="+(num1/num2));
 				break;
 			default:
-				System.out.print("Invalid Number!");
+				System.out.print("Invalid Choise!");
 				break;
 			
 			
