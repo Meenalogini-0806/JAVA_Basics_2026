@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 class Simple_shopping{
 	public static void main(String args[]){
 		
@@ -25,8 +25,8 @@ class Simple_shopping{
 		
 		sc.close();
 	}
-}
-/*import java.util.Scanner;
+ } */
+import java.util.Scanner;
 class Simple_shopping{
 	public static void main(String args[]){
 		int Billamount=6600;
@@ -42,5 +42,5 @@ class Simple_shopping{
 		System.out.println("discount:"+discount);
 		System.out.println("finalamount:"+finalamount);
 	}
-}*/
+}
 	
