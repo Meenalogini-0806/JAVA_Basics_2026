@@ -1,4 +1,4 @@
-/*import java.util.Scanner;
+import java.util.Scanner;
 class Largest_number{
 	public static void main(String args[]){
 		Scanner earth = new Scanner(System.in);
@@ -26,8 +26,8 @@ class Largest_number{
 		}
 	}
 }
-*/
 
+/*
 class Largest_number{
 	public static void main(String args[]){
 		int[] num={455,231,499,89};
@@ -41,7 +41,7 @@ class Largest_number{
 		System.out.print("the largest number is:"+max);
 	}
 }
-/*
+
 class Largest_number{
 	public static void main(String args[]){
 		int [] num={233,24,9,678,4567};
